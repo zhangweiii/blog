@@ -1,4 +1,4 @@
-baseURL = "https://zhangweiii.gitee.io/blog"
+baseURL = "https://hugo.zhangwei.ink"
 languageCode = "zh-cn"
 title = "Golnag 学习笔记"
 theme = "book"
