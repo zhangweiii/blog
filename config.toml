@@ -1,6 +1,6 @@
-baseURL = "https://hugo.zhangwei.ink"
+baseURL = "https://blog.zhangwei.ink"
 languageCode = "zh-cn"
-title = "Golnag 学习笔记"
+title = "笔记本"
 theme = "book"
 
 [markup]
