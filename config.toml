@@ -1,0 +1,8 @@
+baseURL = "https://zhangweiii.gitee.io/blog"
+languageCode = "zh-cn"
+title = "Golnag 学习笔记"
+theme = "book"
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
